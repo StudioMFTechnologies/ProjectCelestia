@@ -17,7 +17,7 @@ Once upon a time, the concept of FiM++ started out on this EqD post:
 Meanwhile, in DeviantArt, DeftCrow came up with example programs for FiM++:
 * http://fav.me/d5gwtse?_ga=1.84858972.499697593.1464477000
 
-Two days later, fellow Githubber Karol Stasiak (http://github. Com/KarolS/)
+Two days later, fellow Githubber Karol Stasiak (http://github.com/KarolS/)
 decided to upload an interpreter for FiM++ to Github:
 * https://github.com/KarolS/fimpp/?_ga=1.155522942.499697593.1464477000
 
