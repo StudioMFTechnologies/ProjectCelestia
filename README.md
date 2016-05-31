@@ -1,5 +1,7 @@
 # ProjectCelestia
 The FiM++ module for Python
+* Released under the Jared M.F. Open Source Public License
+* Currently a work-in-progress
 
 ## About the language
 FiM++ (AKA Friendship Reports) is a programming language
